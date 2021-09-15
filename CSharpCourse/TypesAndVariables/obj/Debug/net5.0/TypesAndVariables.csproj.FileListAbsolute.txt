@@ -1,0 +1,32 @@
+C:\Users\BERKCAN\Desktop\kodlar\C Sharp Course\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\TypesAndVariables.exe
+C:\Users\BERKCAN\Desktop\kodlar\C Sharp Course\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\TypesAndVariables.deps.json
+C:\Users\BERKCAN\Desktop\kodlar\C Sharp Course\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\TypesAndVariables.runtimeconfig.json
+C:\Users\BERKCAN\Desktop\kodlar\C Sharp Course\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\TypesAndVariables.runtimeconfig.dev.json
+C:\Users\BERKCAN\Desktop\kodlar\C Sharp Course\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\TypesAndVariables.dll
+C:\Users\BERKCAN\Desktop\kodlar\C Sharp Course\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\ref\TypesAndVariables.dll
+C:\Users\BERKCAN\Desktop\kodlar\C Sharp Course\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\TypesAndVariables.pdb
+C:\Users\BERKCAN\Desktop\kodlar\C Sharp Course\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Desktop\kodlar\C Sharp Course\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Desktop\kodlar\C Sharp Course\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Desktop\kodlar\C Sharp Course\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.AssemblyInfo.cs
+C:\Users\BERKCAN\Desktop\kodlar\C Sharp Course\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Desktop\kodlar\C Sharp Course\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.dll
+C:\Users\BERKCAN\Desktop\kodlar\C Sharp Course\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\ref\TypesAndVariables.dll
+C:\Users\BERKCAN\Desktop\kodlar\C Sharp Course\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.pdb
+C:\Users\BERKCAN\Desktop\kodlar\C Sharp Course\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.genruntimeconfig.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\TypesAndVariables.exe
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\TypesAndVariables.deps.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\TypesAndVariables.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\TypesAndVariables.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\TypesAndVariables.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\ref\TypesAndVariables.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\TypesAndVariables\bin\Debug\net5.0\TypesAndVariables.pdb
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\ref\TypesAndVariables.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.pdb
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\TypesAndVariables\obj\Debug\net5.0\TypesAndVariables.genruntimeconfig.cache
