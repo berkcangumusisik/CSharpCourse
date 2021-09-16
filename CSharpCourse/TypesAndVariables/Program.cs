@@ -37,8 +37,32 @@ namespace TypesAndVariables
             bool  conditon = false;
             Console.WriteLine(conditon);
             Console.WriteLine("------------");
+
+            //char veri tipi
+            char character = 'A';
+            Console.WriteLine("Character is {0}", character);
+            Console.WriteLine("------------");
+
+            //double veri tipi
+            double number5 = 19.7;
+            Console.WriteLine("Number5  is {0}", number5);
+            Console.WriteLine("------------");
+
+
+            //double veri tipi
+            decimal number6 = 19.7m;
+            Console.WriteLine("Number6  is {0}", number6);
+            Console.WriteLine("------------");
+            Console.WriteLine(Days.Friday);
+            Console.WriteLine("------------");
+            var number7 = 10;
+            Console.WriteLine("Number7  is {0}", number7);
             Console.ReadLine();
         }
+    }
+    enum Days
+    {
+        Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
     }
 }
 /*
@@ -83,4 +107,18 @@ byte veri tipi
 bool veri tipi
 - Mantıksal veri tipidir.
 - True ya da false değerini tutar.
+
+char veri tipi
+- Tek bir karakter tutmayı sağlar.
+- Tek tırnak içinde tutulur.
+
+double veri tipi
+- Ondalıklı sayıları tutar.
+- virgülden sonra 15 16 karakter tutar.
+- 64 bit yer kaplar
+
+
 */
+
+/*
+ var değişken türünü belirtmeden atamayı sağlar.*/
