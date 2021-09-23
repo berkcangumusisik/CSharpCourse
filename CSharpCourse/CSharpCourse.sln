@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03- Conditionals", "03- Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-TypesAndVariables", "01-TypesAndVariables\01-TypesAndVariables.csproj", "{40976ACA-C830-4179-A151-5C20FC4702AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Methods", "04-Methods\04-Methods.csproj", "{62825282-C049-4C06-A053-56C7510E4857}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{40976ACA-C830-4179-A151-5C20FC4702AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40976ACA-C830-4179-A151-5C20FC4702AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40976ACA-C830-4179-A151-5C20FC4702AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62825282-C049-4C06-A053-56C7510E4857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62825282-C049-4C06-A053-56C7510E4857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62825282-C049-4C06-A053-56C7510E4857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62825282-C049-4C06-A053-56C7510E4857}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
