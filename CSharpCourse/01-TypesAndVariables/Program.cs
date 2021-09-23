@@ -26,7 +26,7 @@ namespace _01_TypesAndVariables
             Console.WriteLine(" int Veri Tipinin En Az Alacağı değer:" + longMin);
             Console.WriteLine("------------");
             //short veri tipi
-            short number3 = 3265 ;
+            short number3 = 3265;
             Console.WriteLine("Number is {0}", number3);
             Console.WriteLine("------------");
             //byte veri tipi
@@ -34,7 +34,7 @@ namespace _01_TypesAndVariables
             Console.WriteLine("Number is {0}", number4);
             Console.WriteLine("------------");
             //bool veri tipi
-            bool  conditon = false;
+            bool conditon = false;
             Console.WriteLine(conditon);
             Console.WriteLine("------------");
 
@@ -62,7 +62,7 @@ namespace _01_TypesAndVariables
     }
     enum Days
     {
-        Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+        Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
     }
 }
 /*
