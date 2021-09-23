@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\CSharpCourse\\TypesAndVariables\\01-TypesAndVariables.csproj",
-      "projectName": "01-TypesAndVariables",
-      "projectPath": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\CSharpCourse\\TypesAndVariables\\01-TypesAndVariables.csproj",
+      "projectUniqueName": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\CSharpCourse\\02-Operators\\02-Operators.csproj",
+      "projectName": "02-Operators",
+      "projectPath": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\CSharpCourse\\02-Operators\\02-Operators.csproj",
       "packagesPath": "C:\\Users\\BERKCAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\CSharpCourse\\TypesAndVariables\\obj\\",
+      "outputPath": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\CSharpCourse\\02-Operators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BERKCAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

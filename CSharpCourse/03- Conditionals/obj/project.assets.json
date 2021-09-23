@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\CSharpCourse\\TypesAndVariables\\01-TypesAndVariables.csproj",
-      "projectName": "01-TypesAndVariables",
-      "projectPath": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\CSharpCourse\\TypesAndVariables\\01-TypesAndVariables.csproj",
+      "projectUniqueName": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\CSharpCourse\\03- Conditionals\\03- Conditionals.csproj",
+      "projectName": "03- Conditionals",
+      "projectPath": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\CSharpCourse\\03- Conditionals\\03- Conditionals.csproj",
       "packagesPath": "C:\\Users\\BERKCAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\CSharpCourse\\TypesAndVariables\\obj\\",
+      "outputPath": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\CSharpCourse\\03- Conditionals\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BERKCAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

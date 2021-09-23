@@ -1,0 +1,15 @@
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\02-Operators\bin\Debug\net5.0\02-Operators.exe
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\02-Operators\bin\Debug\net5.0\02-Operators.deps.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\02-Operators\bin\Debug\net5.0\02-Operators.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\02-Operators\bin\Debug\net5.0\02-Operators.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\02-Operators\bin\Debug\net5.0\02-Operators.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\02-Operators\bin\Debug\net5.0\ref\02-Operators.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\02-Operators\bin\Debug\net5.0\02-Operators.pdb
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\02-Operators\obj\Debug\net5.0\02-Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\02-Operators\obj\Debug\net5.0\02-Operators.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\02-Operators\obj\Debug\net5.0\02-Operators.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\02-Operators\obj\Debug\net5.0\02-Operators.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\02-Operators\obj\Debug\net5.0\02-Operators.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\02-Operators\obj\Debug\net5.0\ref\02-Operators.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\02-Operators\obj\Debug\net5.0\02-Operators.pdb
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\02-Operators\obj\Debug\net5.0\02-Operators.genruntimeconfig.cache

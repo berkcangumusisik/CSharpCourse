@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\03- Conditionals\bin\Debug\net5.0\03- Conditionals.exe
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\03- Conditionals\bin\Debug\net5.0\03- Conditionals.deps.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\03- Conditionals\bin\Debug\net5.0\03- Conditionals.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\03- Conditionals\bin\Debug\net5.0\03- Conditionals.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\03- Conditionals\bin\Debug\net5.0\03- Conditionals.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\03- Conditionals\bin\Debug\net5.0\ref\03- Conditionals.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\03- Conditionals\bin\Debug\net5.0\03- Conditionals.pdb
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\03- Conditionals\obj\Debug\net5.0\03- Conditionals.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\03- Conditionals\obj\Debug\net5.0\03- Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\03- Conditionals\obj\Debug\net5.0\03- Conditionals.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\03- Conditionals\obj\Debug\net5.0\03- Conditionals.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\03- Conditionals\obj\Debug\net5.0\03- Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\03- Conditionals\obj\Debug\net5.0\03- Conditionals.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\03- Conditionals\obj\Debug\net5.0\ref\03- Conditionals.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\03- Conditionals\obj\Debug\net5.0\03- Conditionals.pdb
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\03- Conditionals\obj\Debug\net5.0\03- Conditionals.genruntimeconfig.cache
