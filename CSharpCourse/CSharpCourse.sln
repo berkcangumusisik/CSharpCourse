@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-Operators", "02-Operator
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03- Conditionals", "03- Conditionals\03- Conditionals.csproj", "{5FDA2ED1-E5B7-46AF-8320-6389050E3725}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-TypesAndVariables", "01-TypesAndVariables\01-TypesAndVariables.csproj", "{40976ACA-C830-4179-A151-5C20FC4702AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-TypesAndVariables", "01-TypesAndVariables\01-TypesAndVariables.csproj", "{40976ACA-C830-4179-A151-5C20FC4702AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Methods", "04-Methods\04-Methods.csproj", "{62825282-C049-4C06-A053-56C7510E4857}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-Methods", "04-Methods\04-Methods.csproj", "{62825282-C049-4C06-A053-56C7510E4857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Arrays", "05-Arrays\05-Arrays.csproj", "{B2B49D95-FA16-4FCC-AC2D-0B75FF43CED5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{62825282-C049-4C06-A053-56C7510E4857}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62825282-C049-4C06-A053-56C7510E4857}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62825282-C049-4C06-A053-56C7510E4857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B49D95-FA16-4FCC-AC2D-0B75FF43CED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B49D95-FA16-4FCC-AC2D-0B75FF43CED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B49D95-FA16-4FCC-AC2D-0B75FF43CED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B49D95-FA16-4FCC-AC2D-0B75FF43CED5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
