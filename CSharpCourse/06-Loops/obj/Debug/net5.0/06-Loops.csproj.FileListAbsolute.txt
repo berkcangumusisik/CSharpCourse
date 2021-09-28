@@ -1,0 +1,15 @@
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\06-Loops\bin\Debug\net5.0\06-Loops.exe
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\06-Loops\bin\Debug\net5.0\06-Loops.deps.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\06-Loops\bin\Debug\net5.0\06-Loops.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\06-Loops\bin\Debug\net5.0\06-Loops.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\06-Loops\bin\Debug\net5.0\06-Loops.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\06-Loops\bin\Debug\net5.0\ref\06-Loops.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\06-Loops\bin\Debug\net5.0\06-Loops.pdb
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\06-Loops\obj\Debug\net5.0\06-Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\06-Loops\obj\Debug\net5.0\06-Loops.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\06-Loops\obj\Debug\net5.0\06-Loops.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\06-Loops\obj\Debug\net5.0\06-Loops.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\06-Loops\obj\Debug\net5.0\06-Loops.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\06-Loops\obj\Debug\net5.0\ref\06-Loops.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\06-Loops\obj\Debug\net5.0\06-Loops.pdb
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\06-Loops\obj\Debug\net5.0\06-Loops.genruntimeconfig.cache
