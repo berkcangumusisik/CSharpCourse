@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\CSharpCourse\\Exercises\\Exercises.csproj",
-      "projectName": "Exercises",
-      "projectPath": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\CSharpCourse\\Exercises\\Exercises.csproj",
+      "projectUniqueName": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\CSharpCourse\\09- Classes\\09- Classes.csproj",
+      "projectName": "09- Classes",
+      "projectPath": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\CSharpCourse\\09- Classes\\09- Classes.csproj",
       "packagesPath": "C:\\Users\\BERKCAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\CSharpCourse\\Exercises\\obj\\",
+      "outputPath": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\CSharpCourse\\09- Classes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BERKCAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

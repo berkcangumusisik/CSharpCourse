@@ -7,9 +7,51 @@ namespace _08_Exercises
         static void Main(string[] args)
         {
             // Exercise1();
+            // Exercise2();
+            // Exercise3();
+            // Exercise4();
 
-            Exercise2();
 
+
+            Console.ReadLine();
+
+
+        }
+
+        private static void Exercise4()
+        {
+            Console.WriteLine("Kullanıcı Kodunuzu Giriniz:");
+            var usercode = Console.ReadLine();
+            if (usercode == "ABC" || usercode == "123" || usercode == "236" || usercode == "CMK")
+            {
+                Console.WriteLine("Kullanıcı girişiniz başarılı!");
+            }
+            else if (usercode == "HHH" || usercode == "BBB" || usercode == "MMM")
+            {
+                Console.WriteLine("Kullanıcı girişiniz yapılamadı. Hesabınız kitlenmiştir!");
+            }
+            else
+            {
+                Console.WriteLine("Hatalı Kullanıcı Girişi");
+
+            }
+        }
+
+        private static void Exercise3()
+        {
+            Console.WriteLine("Kullanıcı Adınızı Giriniz:");
+            var username = Console.ReadLine();
+
+            Console.WriteLine("Şifrenizi Giriniz:");
+            var password = Console.ReadLine();
+            if (username == "admin" && password == "123")
+            {
+                Console.WriteLine("Merhaba " + username + " Başarılı bir şekilde giriş yaptınız");
+            }
+            else
+            {
+                Console.WriteLine("Giriş başarışız. Kullanıcı adı ve şifrenizi kontrol ediniz");
+            }
         }
 
         private static void Exercise2()

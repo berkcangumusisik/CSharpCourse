@@ -13,3 +13,4 @@ C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\08-Exercises\obj\Deb
 C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\08-Exercises\obj\Debug\net5.0\ref\08-Exercises.dll
 C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\08-Exercises\obj\Debug\net5.0\08-Exercises.pdb
 C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\08-Exercises\obj\Debug\net5.0\08-Exercises.genruntimeconfig.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\08-Exercises\obj\Debug\net5.0\08-Exercises.csproj.AssemblyReference.cache
