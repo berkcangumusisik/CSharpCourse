@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\12-Inheritance\bin\Debug\net5.0\12-Inheritance.exe
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\12-Inheritance\bin\Debug\net5.0\12-Inheritance.deps.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\12-Inheritance\bin\Debug\net5.0\12-Inheritance.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\12-Inheritance\bin\Debug\net5.0\12-Inheritance.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\12-Inheritance\bin\Debug\net5.0\12-Inheritance.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\12-Inheritance\bin\Debug\net5.0\ref\12-Inheritance.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\12-Inheritance\bin\Debug\net5.0\12-Inheritance.pdb
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\12-Inheritance\obj\Debug\net5.0\12-Inheritance.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\12-Inheritance\obj\Debug\net5.0\12-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\12-Inheritance\obj\Debug\net5.0\12-Inheritance.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\12-Inheritance\obj\Debug\net5.0\12-Inheritance.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\12-Inheritance\obj\Debug\net5.0\12-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\12-Inheritance\obj\Debug\net5.0\12-Inheritance.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\12-Inheritance\obj\Debug\net5.0\ref\12-Inheritance.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\12-Inheritance\obj\Debug\net5.0\12-Inheritance.pdb
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\12-Inheritance\obj\Debug\net5.0\12-Inheritance.genruntimeconfig.cache
