@@ -1,0 +1,7 @@
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\19-Exception\bin\Debug\19-Exception.exe.config
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\19-Exception\bin\Debug\19-Exception.exe
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\19-Exception\bin\Debug\19-Exception.pdb
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\19-Exception\obj\Debug\19-Exception.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\19-Exception\obj\Debug\19-Exception.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\19-Exception\obj\Debug\19-Exception.exe
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\19-Exception\obj\Debug\19-Exception.pdb
