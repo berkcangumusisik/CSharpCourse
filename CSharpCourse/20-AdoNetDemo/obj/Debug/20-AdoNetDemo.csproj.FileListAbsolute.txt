@@ -1,0 +1,10 @@
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\20-AdoNetDemo\obj\Debug\20-AdoNetDemo.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\20-AdoNetDemo\obj\Debug\_20_AdoNetDemo.Form1.resources
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\20-AdoNetDemo\obj\Debug\_20_AdoNetDemo.Properties.Resources.resources
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\20-AdoNetDemo\obj\Debug\20-AdoNetDemo.csproj.GenerateResource.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\20-AdoNetDemo\obj\Debug\20-AdoNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\20-AdoNetDemo\bin\Debug\20-AdoNetDemo.exe.config
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\20-AdoNetDemo\bin\Debug\20-AdoNetDemo.exe
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\20-AdoNetDemo\bin\Debug\20-AdoNetDemo.pdb
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\20-AdoNetDemo\obj\Debug\20-AdoNetDemo.exe
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\20-AdoNetDemo\obj\Debug\20-AdoNetDemo.pdb
