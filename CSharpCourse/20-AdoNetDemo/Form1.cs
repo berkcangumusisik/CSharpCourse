@@ -68,5 +68,10 @@ namespace _20_AdoNetDemo
             LoadProducts();
             MessageBox.Show("Deleted!");
         }
+
+        private void dgwProducts_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
