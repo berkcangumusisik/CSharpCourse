@@ -1,0 +1,15 @@
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\23-Attributes\obj\Debug\net5.0\23-Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\23-Attributes\obj\Debug\net5.0\23-Attributes.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\23-Attributes\obj\Debug\net5.0\23-Attributes.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\23-Attributes\obj\Debug\net5.0\23-Attributes.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\23-Attributes\bin\Debug\net5.0\23-Attributes.exe
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\23-Attributes\bin\Debug\net5.0\23-Attributes.deps.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\23-Attributes\bin\Debug\net5.0\23-Attributes.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\23-Attributes\bin\Debug\net5.0\23-Attributes.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\23-Attributes\bin\Debug\net5.0\23-Attributes.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\23-Attributes\bin\Debug\net5.0\ref\23-Attributes.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\23-Attributes\bin\Debug\net5.0\23-Attributes.pdb
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\23-Attributes\obj\Debug\net5.0\23-Attributes.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\23-Attributes\obj\Debug\net5.0\ref\23-Attributes.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\23-Attributes\obj\Debug\net5.0\23-Attributes.pdb
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\23-Attributes\obj\Debug\net5.0\23-Attributes.genruntimeconfig.cache
