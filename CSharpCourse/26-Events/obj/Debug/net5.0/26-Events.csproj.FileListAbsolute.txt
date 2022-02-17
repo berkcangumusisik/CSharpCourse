@@ -1,0 +1,16 @@
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\26-Events\bin\Debug\net5.0\26-Events.exe
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\26-Events\bin\Debug\net5.0\26-Events.deps.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\26-Events\bin\Debug\net5.0\26-Events.runtimeconfig.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\26-Events\bin\Debug\net5.0\26-Events.runtimeconfig.dev.json
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\26-Events\bin\Debug\net5.0\26-Events.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\26-Events\bin\Debug\net5.0\ref\26-Events.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\26-Events\bin\Debug\net5.0\26-Events.pdb
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\26-Events\obj\Debug\net5.0\26-Events.csproj.AssemblyReference.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\26-Events\obj\Debug\net5.0\26-Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\26-Events\obj\Debug\net5.0\26-Events.AssemblyInfoInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\26-Events\obj\Debug\net5.0\26-Events.AssemblyInfo.cs
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\26-Events\obj\Debug\net5.0\26-Events.csproj.CoreCompileInputs.cache
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\26-Events\obj\Debug\net5.0\26-Events.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\26-Events\obj\Debug\net5.0\ref\26-Events.dll
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\26-Events\obj\Debug\net5.0\26-Events.pdb
+C:\Users\BERKCAN\Documents\GitHub\CSharpCourse\CSharpCourse\26-Events\obj\Debug\net5.0\26-Events.genruntimeconfig.cache

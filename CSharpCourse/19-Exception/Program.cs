@@ -10,7 +10,37 @@ namespace _19_Exception
     {
         static void Main(string[] args)
         {
-            ExceptionIntro();
+            //ExceptionIntro();
+            //TryCatch();
+            //ActionDemo();
+            Func<int, int, int> add = Topla;
+            Console.WriteLine(add(3, 5));
+
+            Console.WriteLine(Topla(2, 3));
+            Func<int> getRandomNumber = delegate()
+            {
+                Random random = new Random();
+                return random.Next(1, 100);
+            };
+                Console.WriteLine(getRandomNumber());
+
+                Func<int> getRandomNumber2 = () => new Random().Next(1,100);
+                Console.WriteLine(getRandomNumber());
+            Console.ReadLine();
+
+        }
+
+        static int Topla(int x, int y)
+        {
+            return x + y;
+        }
+        private static void ActionDemo()
+        {
+            HandleException(() => { Find(); });
+        }
+
+        private static void TryCatch()
+        {
             try
             {
                 Find();
@@ -19,12 +49,6 @@ namespace _19_Exception
             {
                 Console.WriteLine(exception.Message);
             }
-
-            HandleException(() =>
-            {
-                Find();
-            });
-            Console.ReadLine();
         }
 
         private static void HandleException(Action action)
@@ -41,7 +65,7 @@ namespace _19_Exception
 
         private static void Find()
         {
-            List<string> students2 = new List<string> {"Berkcan", "Şevval", "Nurana", "Mete"};
+            List<string> students2 = new List<string> { "Berkcan", "Şevval", "Nurana", "Mete" };
             if (!students2.Contains("Ahmet"))
             {
                 throw new RecordNotFoundException("Kayıt Bulunamadı");
