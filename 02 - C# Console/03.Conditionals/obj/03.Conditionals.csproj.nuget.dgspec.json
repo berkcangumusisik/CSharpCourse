@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\02 - C# Console\\03.Conditionals\\03.Conditionals.csproj": {}
+    "C:\\Users\\Gazi\\Desktop\\03.Conditionals\\03.Conditionals.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\02 - C# Console\\03.Conditionals\\03.Conditionals.csproj": {
+    "C:\\Users\\Gazi\\Desktop\\03.Conditionals\\03.Conditionals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\02 - C# Console\\03.Conditionals\\03.Conditionals.csproj",
+        "projectUniqueName": "C:\\Users\\Gazi\\Desktop\\03.Conditionals\\03.Conditionals.csproj",
         "projectName": "03.Conditionals",
-        "projectPath": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\02 - C# Console\\03.Conditionals\\03.Conditionals.csproj",
-        "packagesPath": "C:\\Users\\BERKCAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BERKCAN\\Documents\\GitHub\\CSharpCourse\\02 - C# Console\\03.Conditionals\\obj\\",
+        "projectPath": "C:\\Users\\Gazi\\Desktop\\03.Conditionals\\03.Conditionals.csproj",
+        "packagesPath": "C:\\Users\\Gazi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gazi\\Desktop\\03.Conditionals\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\BERKCAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gazi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
